@@ -23,3 +23,6 @@ it is an Interview question for an interview
 - created_at(datetime),
 - updated_at(datetime)
 5. Your DB should be the follow-come sqlite of django.
+
+
+here is link to my EDR[https://drive.google.com/file/d/1eUd-4KeRmmKW8DQ7qFEz_3I2-tdhjMn0/view?usp=drive_link]
